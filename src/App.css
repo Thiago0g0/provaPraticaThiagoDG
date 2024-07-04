@@ -1,0 +1,33 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+nav{
+  background-color: #0047b5;
+  color: rgb(255, 255, 255);
+  padding: 10px 0px;
+}
+
+.navnam{
+  display: flex;
+  flex-direction:row-reverse;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2px 10px 0px 10px;
+}
+
+nav img{
+  width: 90px;
+  height: 90px;
+}
+
+.timape{
+  padding: 0px 10px;
+  color: #8a8a8a;
+}
+
+li{
+  list-style-type: none;
+}
+
